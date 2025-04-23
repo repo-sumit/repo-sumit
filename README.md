@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-🎓 B.S. in Data Science @ IIT Madras   
+🎓 Studying Data Science @ IIT Madras   
 🧠 Product Intern @ ConveGenius.AI | Founder @ [AceGrade.in](https://acegrade.in)  
 🌏 Passionate about EdTech, AI, and making products that empower millions
 
