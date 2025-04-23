@@ -1,14 +1,15 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there!%20I'm%20Sumit%20Kumar%20👋&fontSize=35&fontAlign=40&fontColor=ffffff)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=AI+Builder+%7C+Product+Manager+%7C+Data+Science+Enthusiast;Scaling+Products+%F0%9F%9A%80;Driven+by+Impact+%26+User+Empathy"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Product+Manager+%7C+AI+Builder+%7C+Data+Science+Enthusiast;Scaling+Products+%F0%9F%9A%80;Driven+by+Impact+%26+User+Empathy"/>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-🎓 B.S. in Data Science @ IIT Madras 
+🎓 B.Sc. in Data Science @ IIT Madras (2026)  
+🎓 B.Sc. in Information Technology @ Maharaja Agrasen Himalayan Garhwal University (2024)  
 🧠 Product Intern @ ConveGenius.AI | Founder @ [AceGrade.in](https://acegrade.in)  
 🌏 Passionate about EdTech, AI, and making products that empower millions
 
@@ -25,6 +26,7 @@
   <img src="https://img.shields.io/badge/-JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Google%20Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white"/>
 </p>
 
 ---
@@ -50,7 +52,7 @@
 - Admin dashboard with login, CRUD, and quiz tracking
 - Role-based access and secure auth using Werkzeug
 
-### 🛒 [Grocery Store Analytics](https://github.com/repo-sumit/grocery-store-analytics)
+### 🛒 [Grocery Store Analytics](https://repo-sumit.github.io/BDM_Project/)
 - Python pandas, statsmodels, matplotlib
 - Time-series forecasting and ABC analysis
 - Inventory optimization using sales patterns
