@@ -1,7 +1,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there!%20I'm%20Sumit%20Kumar%20👋&fontSize=35&fontAlign=40&fontColor=ffffff)
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=____Product+Manager+%7C+AI+Builder+%7C+Data+Science+Enthusiast;Scaling+Products+%F0%9F%9A%80;Driven+by+Impact+%26+User+Empathy"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=_____Product+Manager+%7C+AI+Builder+%7C+Data+Science+Enthusiast;Scaling+Products+%F0%9F%9A%80;Driven+by+Impact+%26+User+Empathy"/>
 </p>
 
 ---
