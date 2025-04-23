@@ -79,4 +79,4 @@
 
 ---
 
-<p align="center">Made with ❤️ by Sumit Kumar</p>
+<p align="center">Made with ❤️ by Sumit</p>
