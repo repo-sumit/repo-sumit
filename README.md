@@ -8,8 +8,7 @@
 
 ## 🚀 About Me
 
-🎓 B.Sc. in Data Science @ IIT Madras (2026)  
-🎓 B.Sc. in Information Technology @ Maharaja Agrasen Himalayan Garhwal University (2024)  
+🎓 B.S. in Data Science @ IIT Madras   
 🧠 Product Intern @ ConveGenius.AI | Founder @ [AceGrade.in](https://acegrade.in)  
 🌏 Passionate about EdTech, AI, and making products that empower millions
 
