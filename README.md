@@ -70,12 +70,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=repo-sumit&show_icons=true&theme=radical"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=repo-sumit&theme=radical"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=repo-sumit&theme=rogue"/>
-</p>
 
 ---
 
