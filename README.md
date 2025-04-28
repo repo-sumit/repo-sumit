@@ -15,8 +15,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 <br><br>
 
-
-
 ## Tools & Skills
 
 <p align="center">
@@ -31,7 +29,6 @@
   <img src="https://img.shields.io/badge/-Google%20Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white"/>
 </p>
 
----
 
 <p align="center">
  <img width="1000" src="github-snake.svg" alt="snake"/>
