@@ -13,8 +13,13 @@
 🌏 Passionate about EdTech, AI, and making products that empower millions
 
 ---
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+<br><br>
 
-## 🧰 Tech & Tools
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+<br><br>  ## Tech & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -67,6 +72,12 @@
 - Inventory optimization using sales patterns
 
 ---
+
+<img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="400">
+<br><br>
+
+---
+
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=repo-sumit&style=for-the-badge&color=orange" alt=""/>
 </div>
