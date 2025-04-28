@@ -30,6 +30,11 @@
 
 ---
 
+<p align="center">
+ <img width="1000" src="github-snake.svg" alt="snake"/>
+</p>
+
+---
 ## 💼 Experience
 
 ### 🚀 ConveGenius.AI – Product Intern
@@ -73,9 +78,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=repo-sumit&show_icons=true&theme=radical"/>
 </p>
 
-<p align="center">
- <img width="1000" src="github-snake.svg" alt="snake"/>
-</p>
 ---
 
 <p align="center">Made with ❤️ by Sumit</p>
