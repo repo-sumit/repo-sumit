@@ -61,8 +61,6 @@
   <img src="https://komarev.com/ghpvc/?username=repo-sumit&style=for-the-badge&color=orange" alt=""/>
 </div>
 ---
-## 🌐 Connect With Me
-
 <p align="center">
   <a href="https://www.linkedin.com/in/in-sumit/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:chingaarisharma@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
