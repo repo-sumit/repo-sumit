@@ -46,7 +46,7 @@
 
 ## 🛠️ Projects
 
-### 🎯 [Quiz Master – Flask Web App](https://github.com/repo-sumit/quiz-master)
+### 🎯 [Quiz Master – Flask Web App](https://github.com/repo-sumit/MAD_1)
 - Flask + SQLite + SQLAlchemy backend
 - Admin dashboard with login, CRUD, and quiz tracking
 - Role-based access and secure auth using Werkzeug
