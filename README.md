@@ -58,7 +58,7 @@
 
 ---
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=tripurari2004&style=for-the-badge&color=orange" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=repo-sumit&style=for-the-badge&color=orange" alt=""/>
 </div>
 ---
 ## 🌐 Connect With Me
