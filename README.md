@@ -15,7 +15,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 <br><br>
 
-
 ## Tools & Skills
 
 <p align="center">
@@ -35,7 +34,6 @@
  <img width="1000" src="github-snake.svg" alt="snake"/>
 </p>
 
----
 ## 💼 Experience
 
 ### 🚀 ConveGenius.AI – Product Intern
@@ -48,12 +46,8 @@
 - Built AceGuide for IIT Madras with 1,400+ users
 - Improved retention by 64% and launched user-feedback loops
 
----
-
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="600">
 <br><br>
-
----
 
 ## 🛠️ Projects
 
@@ -67,29 +61,21 @@
 - Time-series forecasting and ABC analysis
 - Inventory optimization using sales patterns
 
----
-
 <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="400">
 <br><br>
-
----
 
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=repo-sumit&style=for-the-badge&color=orange" alt=""/>
 </div>
----
+
 <p align="center">
   <a href="https://www.linkedin.com/in/in-sumit/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:chingaarisharma@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/repo-sumit"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
----
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=repo-sumit&show_icons=true&theme=radical"/>
 </p>
-
----
 
 <p align="center">Made with ❤️ by Sumit</p>
