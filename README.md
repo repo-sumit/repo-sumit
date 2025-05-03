@@ -38,7 +38,7 @@
 | ![HackerRank](https://img.shields.io/badge/Hackerrank-2EC866?logo=hackerrank&logoColor=white&style=flat) | SQL (Intermediate) | [View Credential](https://www.hackerrank.com/certificates/e106d6175bbd) |
 | ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?logo=hackerrank&logoColor=white&style=flat) | SQL (Basic) | [View Credential](https://www.hackerrank.com/certificates/40a166053c4e) |
 | ![IIT Madras](https://img.shields.io/badge/-IIT%20Madras-E63946?style=flat) | Foundation in Data Science | [View Credential](https://drive.google.com/file/d/1H0mNShIQ0yo1MGt-7uM5fQ9tbaWxRIp7/view) |
-| ![Paradox](https://img.shields.io/badge/-Paradox%20Workshop%20Coordinator-5A4FCF?style=flat) | Workshop Coordinator | [View Credential](https://paradox2024.com/certificates/PRDX24M4372) |
+| ![Paradox](https://img.shields.io/badge/-Paradox-5A4FCF?style=flat) | Workshop Coordinator | [View Credential](https://paradox2024.com/certificates/PRDX24M4372) |
 
 
 <p align="center">
