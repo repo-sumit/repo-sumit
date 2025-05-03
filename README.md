@@ -30,7 +30,7 @@
 ## 🎓 Certifications
 
 | Icon | Certificate | Link |
-|------|-------------|----------|------|
+|------|--------------|------|
 | ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat) | API Fundamentals Student Expert | [View Credential](https://badgr.com/public/assertions/e0e70b82b6fa4463807196fef2b2b8de) |
 | ![Google](https://img.shields.io/badge/-Google%20Analytics-E37400?logo=googleanalytics&logoColor=white&style=flat) | Google Analytics Certification | [View Credential](https://skillshop.credential.net/135987166) |
 | ![Product School](https://img.shields.io/badge/-Product%20School-292929?logo=producthunt&logoColor=white&style=flat) | Product Experimentation Micro-Certification | [View Credential](https://productschool.com) |
