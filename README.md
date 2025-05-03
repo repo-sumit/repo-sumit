@@ -6,13 +6,14 @@
 
 ## 🚀 About Me
 
-🎓 Studying Data Science @ IIT Madras   
-🧠 Product Intern @ ConveGenius.AI | Founder @ [AceGrade.in](https://acegrade.in)  
-🌏 Passionate about EdTech, AI, and making products that empower millions
+Hi there! I'm **Sumit**, a passionate and driven **Product Manager** with a strong foundation in both **tech and business**. I specialize in turning ideas into impactful digital products.
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-<br><br>
-
+- 🎯 Currently building EdTech innovations at **[ConveGenius](https://www.convegenius.com/)** (AI SaaS, Govt Partnerships)
+- 🧠 Founder & Product Owner at **[AceGrade](https://acegrade.in)** – scaled to **100K+ users** in under a year
+- 🎓 Pursuing **B.S. Degrees** in **Data Science** from **(IIT Madras)** 
+- 🔁 Experienced in **Agile**, **PRD writing** (40+ specs), and cross-functional collaboration
+- 📊 Skilled in **user research**, **A/B testing**, **Mixpanel**, **SQL**, and **data storytelling**
+- 🌱 Actively looking for an **Associate Product Manager (APM)** role to further build delightful, data-driven products
 
 ## 🛠️ Skills & Tools
 
@@ -34,20 +35,6 @@
 ![Mixpanel](https://img.shields.io/badge/Mixpanel-6610F2?logo=mixpanel&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white&style=flat)
 
-## 🎓 Certifications
-
-| Icon | Certificate | Link |
-|------|--------------|------|
-| ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat) | API Fundamentals Student Expert | [View Credential](https://badgr.com/public/assertions/e0e70b82b6fa4463807196fef2b2b8de) |
-| ![Google](https://img.shields.io/badge/-Google%20Analytics-E37400?logo=googleanalytics&logoColor=white&style=flat) | Google Analytics Certification | [View Credential](https://skillshop.credential.net/135987166) |
-| ![Product School](https://img.shields.io/badge/-Product%20School-292929?logo=producthunt&logoColor=white&style=flat) | Product Experimentation Micro-Certification | [View Credential](https://productschool.com) |
-| ![HackerRank](https://img.shields.io/badge/Hackerrank-2EC866?logo=hackerrank&logoColor=white&style=flat) | Python (Basic) | [View Credential](https://www.hackerrank.com/certificates/69f1e469c210) |
-| ![HackerRank](https://img.shields.io/badge/Hackerrank-2EC866?logo=hackerrank&logoColor=white&style=flat) | SQL (Intermediate) | [View Credential](https://www.hackerrank.com/certificates/e106d6175bbd) |
-| ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?logo=hackerrank&logoColor=white&style=flat) | SQL (Basic) | [View Credential](https://www.hackerrank.com/certificates/40a166053c4e) |
-| ![IIT Madras](https://img.shields.io/badge/-IIT%20Madras-E63946?style=flat) | Foundation in Data Science | [View Credential](https://drive.google.com/file/d/1H0mNShIQ0yo1MGt-7uM5fQ9tbaWxRIp7/view) |
-| ![Paradox](https://img.shields.io/badge/-Paradox-5A4FCF?style=flat) | Workshop Coordinator | [View Credential](https://paradox2024.com/certificates/PRDX24M4372) |
-
-
 <p align="center">
  <img width="1000" src="github-snake.svg" alt="snake"/>
 </p>
@@ -58,6 +45,8 @@
 - Delivered features to 150M+ users with agile execution
 - Managed 70+ JIRA tickets across sprint cycles
 - Used AI tools like ChatGPT, Perplexity, and V0 for product iterations
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
 ### 🧠 AceGrade.in – Founder & Product Owner
 - Scaled platform to 118K+ users with 23% MoM growth
@@ -80,17 +69,30 @@
 - Inventory optimization using sales patterns
 
 <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="400">
-<br><br>
 
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=repo-sumit&style=for-the-badge&color=orange" alt=""/>
-</div>
+## 🎓 Certifications
+
+| Icon | Certificate | Link |
+|------|--------------|------|
+| ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat) | API Fundamentals Student Expert | [View Credential](https://badgr.com/public/assertions/e0e70b82b6fa4463807196fef2b2b8de) |
+| ![Google](https://img.shields.io/badge/-Google%20Analytics-E37400?logo=googleanalytics&logoColor=white&style=flat) | Google Analytics Certification | [View Credential](https://skillshop.credential.net/135987166) |
+| ![Product School](https://img.shields.io/badge/-Product%20School-292929?logo=producthunt&logoColor=white&style=flat) | Product Experimentation Micro-Certification | [View Credential](https://productschool.com) |
+| ![HackerRank](https://img.shields.io/badge/Hackerrank-2EC866?logo=hackerrank&logoColor=white&style=flat) | Python (Basic) | [View Credential](https://www.hackerrank.com/certificates/69f1e469c210) |
+| ![HackerRank](https://img.shields.io/badge/Hackerrank-2EC866?logo=hackerrank&logoColor=white&style=flat) | SQL (Intermediate) | [View Credential](https://www.hackerrank.com/certificates/e106d6175bbd) |
+| ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?logo=hackerrank&logoColor=white&style=flat) | SQL (Basic) | [View Credential](https://www.hackerrank.com/certificates/40a166053c4e) |
+| ![IIT Madras](https://img.shields.io/badge/-IIT%20Madras-E63946?style=flat) | Foundation in Data Science | [View Credential](https://drive.google.com/file/d/1H0mNShIQ0yo1MGt-7uM5fQ9tbaWxRIp7/view) |
+| ![Paradox](https://img.shields.io/badge/-Paradox-5A4FCF?style=flat) | Workshop Coordinator | [View Credential](https://paradox2024.com/certificates/PRDX24M4372) |
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/in-sumit/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:chingaarisharma@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/repo-sumit"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
+
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=repo-sumit&style=for-the-badge&color=orange" alt=""/>
+</div>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=repo-sumit&show_icons=true&theme=radical"/>
