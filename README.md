@@ -81,7 +81,6 @@ Hi there! I'm **Sumit**, a passionate and driven **Product Manager** with a stro
 | ![HackerRank](https://img.shields.io/badge/Hackerrank-2EC866?logo=hackerrank&logoColor=white&style=flat) | Python (Basic) | [View Credential](https://www.hackerrank.com/certificates/iframe/69f1e469c210) |
 | ![HackerRank](https://img.shields.io/badge/Hackerrank-2EC866?logo=hackerrank&logoColor=white&style=flat) | SQL (Intermediate) | [View Credential](https://www.hackerrank.com/certificates/e106d6175bbd) |
 | ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?logo=hackerrank&logoColor=white&style=flat) | SQL (Basic) | [View Credential](https://www.hackerrank.com/certificates/40a166053c4e) |
-| ![IIT Madras](https://img.shields.io/badge/-IIT%20Madras-E63946?style=flat) | Foundation in Data Science | [View Credential] |
 
 ## 📬 Connect with Me
 
