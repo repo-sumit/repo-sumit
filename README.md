@@ -75,14 +75,13 @@ Hi there! I'm **Sumit**, a passionate and driven **Product Manager** with a stro
 
 | Icon | Certificate | Link |
 |------|--------------|------|
-| ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat) | API Fundamentals Student Expert | [View Credential](https://badgr.com/public/assertions/e0e70b82b6fa4463807196fef2b2b8de) |
-| ![Google](https://img.shields.io/badge/-Google%20Analytics-E37400?logo=googleanalytics&logoColor=white&style=flat) | Google Analytics Certification | [View Credential](https://skillshop.credential.net/135987166) |
-| ![Product School](https://img.shields.io/badge/-Product%20School-292929?logo=producthunt&logoColor=white&style=flat) | Product Experimentation Micro-Certification | [View Credential](https://productschool.com) |
-| ![HackerRank](https://img.shields.io/badge/Hackerrank-2EC866?logo=hackerrank&logoColor=white&style=flat) | Python (Basic) | [View Credential](https://www.hackerrank.com/certificates/69f1e469c210) |
-| ![HackerRank](https://img.shields.io/badge/Hackerrank-2EC866?logo=hackerrank&logoColor=white&style=flat) | SQL (Intermediate) | [View Credential](https://www.hackerrank.com/certificates/e106d6175bbd) |
-| ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?logo=hackerrank&logoColor=white&style=flat) | SQL (Basic) | [View Credential](https://www.hackerrank.com/certificates/40a166053c4e) |
-| ![IIT Madras](https://img.shields.io/badge/-IIT%20Madras-E63946?style=flat) | Foundation in Data Science | [View Credential](https://drive.google.com/file/d/1H0mNShIQ0yo1MGt-7uM5fQ9tbaWxRIp7/view) |
-| ![Paradox](https://img.shields.io/badge/-Paradox-5A4FCF?style=flat) | Workshop Coordinator | [View Credential](https://paradox2024.com/certificates/PRDX24M4372) |
+| ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat) | API Fundamentals Student Expert | [View Credential](https://badgr.com/public/assertions/PwUrdjzmQ8y6KSZVCS1YNA?identity__email=chingaarisharma@gmail.com) |
+| ![Google](https://img.shields.io/badge/-Google%20Analytics-E37400?logo=googleanalytics&logoColor=white&style=flat) | Google Analytics Certification | [View Credential](https://skillshop.credential.net/5c0521af-78b2-4270-a610-7671c53db187#acc.EUBRxkK3) |
+| ![Product School](https://img.shields.io/badge/-Product%20School-292929?logo=producthunt&logoColor=white&style=flat) | Product Experimentation Micro-Certification | [View Credential()]|
+| ![HackerRank](https://img.shields.io/badge/Hackerrank-2EC866?logo=hackerrank&logoColor=white&style=flat) | Python (Basic) | [View Credential(https://www.hackerrank.com/certificates/iframe/69f1e469c210)](https://www.hackerrank.com/certificates/69f1e469c210) |
+| ![HackerRank](https://img.shields.io/badge/Hackerrank-2EC866?logo=hackerrank&logoColor=white&style=flat) | SQL (Intermediate) | [View Credential(https://www.hackerrank.com/certificates/e106d6175bbd)](https://www.hackerrank.com/certificates/e106d6175bbd) |
+| ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?logo=hackerrank&logoColor=white&style=flat) | SQL (Basic) | [View Credential(https://www.hackerrank.com/certificates/40a166053c4e)](https://www.hackerrank.com/certificates/40a166053c4e) |
+| ![IIT Madras](https://img.shields.io/badge/-IIT%20Madras-E63946?style=flat) | Foundation in Data Science | [View Credential()](https://drive.google.com/file/d/1H0mNShIQ0yo1MGt-7uM5fQ9tbaWxRIp7/view) |
 
 ## 📬 Connect with Me
 
