@@ -27,6 +27,19 @@
   <img src="https://img.shields.io/badge/-Google%20Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white"/>
 </p>
 
+## 🎓 Certifications
+
+| Icon | Certificate | Platform | Link |
+|------|-------------|----------|------|
+| ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat) | API Fundamentals Student Expert | Postman | [View Credential](https://badgr.com/public/assertions/e0e70b82b6fa4463807196fef2b2b8de) |
+| ![Google](https://img.shields.io/badge/-Google%20Analytics-E37400?logo=googleanalytics&logoColor=white&style=flat) | Google Analytics Certification | Google | [View Credential](https://skillshop.credential.net/135987166) |
+| ![Product School](https://img.shields.io/badge/-Product%20School-292929?logo=producthunt&logoColor=white&style=flat) | Product Experimentation Micro-Certification | Product School | [View Credential](https://productschool.com) |
+| ![HackerRank](https://img.shields.io/badge/-Python%20(Basic)-2EC866?logo=hackerrank&logoColor=white&style=flat) | Python (Basic) | HackerRank | [View Credential](https://www.hackerrank.com/certificates/69f1e469c210) |
+| ![HackerRank](https://img.shields.io/badge/-SQL%20(Intermediate)-2EC866?logo=hackerrank&logoColor=white&style=flat) | SQL (Intermediate) | HackerRank | [View Credential](https://www.hackerrank.com/certificates/e106d6175bbd) |
+| ![HackerRank](https://img.shields.io/badge/-SQL%20(Basic)-2EC866?logo=hackerrank&logoColor=white&style=flat) | SQL (Basic) | HackerRank | [View Credential](https://www.hackerrank.com/certificates/40a166053c4e) |
+| ![IIT Madras](https://img.shields.io/badge/-IIT%20Madras-E63946?style=flat) | Foundation in Data Science | IIT Madras | [View Credential](https://drive.google.com/file/d/1H0mNShIQ0yo1MGt-7uM5fQ9tbaWxRIp7/view) |
+| ![Paradox](https://img.shields.io/badge/-Paradox%20Workshop%20Coordinator-5A4FCF?style=flat) | Workshop Coordinator | IIT Madras | [View Credential](https://paradox2024.com/certificates/PRDX24M4372) |
+
 
 <p align="center">
  <img width="1000" src="github-snake.svg" alt="snake"/>
