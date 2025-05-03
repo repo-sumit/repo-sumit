@@ -23,8 +23,6 @@ Hi there! I'm **Sumit**, a passionate and driven **Product Manager** with a stro
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 ![Whimsical](https://img.shields.io/badge/Whimsical-5A4FCF?logo=whimsical&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-009DDC?style=flat&logo=agile&logoColor=white)
-![A/B Testing](https://via.placeholder.com/15/ff69b4/000000?text=+) 
-![Roadmapping](https://img.shields.io/badge/Product_Roadmaps-2F3D4A?style=flat)
 
 ### 💻 Programming & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
