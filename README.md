@@ -92,7 +92,7 @@ Hi there! I'm **Sumit**, a passionate and driven **Product Manager** with a stro
   <a href="https://github.com/repo-sumit" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" style="margin-right: 15px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
-  <a href="mailto:inbox.sumitt@gmail.com">
+  <a href="mailto:inbox.sumitt@gmail.com?subject=Hi%20Sumit&body=Hi%2C%20Sumit.%20Got%20your%20mail%20id%20from%20GitHub%2C%20can%20we%20connect%20%3F">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" style="margin-right: 15px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
   <a href="https://wa.me/919546488385?text=Hi%20Sumit%2C%20got%20your%20Contact%20from%20Github.%0AHow're%20you%20%3F" target="_blank">
