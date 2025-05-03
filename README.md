@@ -88,18 +88,22 @@ Hi there! I'm **Sumit**, a passionate and driven **Product Manager** with a stro
 
 <p align="center">
   <a href="https://www.linkedin.com/in/in-sumit/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" style="margin-right: 15px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
   <a href="https://github.com/repo-sumit" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" style="margin-right: 15px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
   <a href="mailto:inbox.sumitt@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" style="margin-right: 15px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
   <a href="https://wa.me/919546488385?text=Hi%20Sumit%2C%20got%20your%20Contact%20from%20Github.%0AHow're%20you%20%3F" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+    <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" height="40" alt="WhatsApp" style="margin-right: 15px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+  </a>
+  <a href="https://www.instagram.com/txt.sumit/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
 </p>
+
 
 
 <div id="header" align="center">
