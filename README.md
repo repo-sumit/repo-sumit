@@ -84,12 +84,23 @@ Hi there! I'm **Sumit**, a passionate and driven **Product Manager** with a stro
 | ![IIT Madras](https://img.shields.io/badge/-IIT%20Madras-E63946?style=flat) | Foundation in Data Science | [View Credential](https://drive.google.com/file/d/1H0mNShIQ0yo1MGt-7uM5fQ9tbaWxRIp7/view) |
 | ![Paradox](https://img.shields.io/badge/-Paradox-5A4FCF?style=flat) | Workshop Coordinator | [View Credential](https://paradox2024.com/certificates/PRDX24M4372) |
 
+## 📬 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/in-sumit/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:chingaarisharma@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/repo-sumit"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/in-sumit/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/repo-sumit" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:inbox.sumitt@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://wa.me/919548488385?text=Hi%20Sumit%2C%20got%20your%20Contact%20from%20Github.%0AHow're%20you%20%3F" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
 </p>
+
 
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=repo-sumit&style=for-the-badge&color=orange" alt=""/>
