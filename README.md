@@ -10,10 +10,7 @@ Hi there! I'm **Sumit**, a passionate and driven **Product Manager** with a stro
 
 - 🎯 Currently building EdTech innovations at **[ConveGenius](https://www.convegenius.com/)** (AI SaaS, Govt Partnerships)
 - 🧠 Founder & Product Owner at **[AceGrade](https://acegrade.in)** – scaled to **100K+ users** in under a year
-- 🎓 Pursuing **B.S. Degrees** in **Data Science** from **(IIT Madras)** 
-- 🔁 Experienced in **Agile**, **PRD writing** (40+ specs), and cross-functional collaboration
-- 📊 Skilled in **user research**, **A/B testing**, **Mixpanel**, **SQL**, and **data storytelling**
-- 🌱 Actively looking for an **Associate Product Manager (APM)** role to further build delightful, data-driven products
+- 🎓 Pursuing **B.S.** in **Data Science** from **(IIT Madras)** 
 
 ## 🛠️ Skills & Tools
 
@@ -40,29 +37,14 @@ Hi there! I'm **Sumit**, a passionate and driven **Product Manager** with a stro
  <img width="1000" src="github-snake.svg" alt="snake"/>
 </p>
 
-## 💼 Experience
-
-### 🚀 ConveGenius.AI – Product Intern
-- Delivered features to 150M+ users with agile execution
-- Managed 70+ JIRA tickets across sprint cycles
-- Used AI tools like ChatGPT, Perplexity, and V0 for product iterations
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
-### 🧠 AceGrade.in – Founder & Product Owner
-- Scaled platform to 118K+ users with 23% MoM growth
-- Built AceGuide for IIT Madras with 1,400+ users
-- Improved retention by 64% and launched user-feedback loops
-
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="600">
-<br><br>
-
 ## 🛠️ Projects
 
 ### 🎯 [Quiz Master – Flask Web App](https://github.com/repo-sumit/MAD_1)
 - Flask + SQLite + SQLAlchemy backend
 - Admin dashboard with login, CRUD, and quiz tracking
 - Role-based access and secure auth using Werkzeug
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
 ### 🛒 [Grocery Store Analytics](https://repo-sumit.github.io/BDM_Project/)
 - Python pandas, statsmodels, matplotlib
@@ -81,6 +63,9 @@ Hi there! I'm **Sumit**, a passionate and driven **Product Manager** with a stro
 | ![HackerRank](https://img.shields.io/badge/Hackerrank-2EC866?logo=hackerrank&logoColor=white&style=flat) | Python (Basic) | [View Credential](https://www.hackerrank.com/certificates/iframe/69f1e469c210) |
 | ![HackerRank](https://img.shields.io/badge/Hackerrank-2EC866?logo=hackerrank&logoColor=white&style=flat) | SQL (Intermediate) | [View Credential](https://www.hackerrank.com/certificates/e106d6175bbd) |
 | ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?logo=hackerrank&logoColor=white&style=flat) | SQL (Basic) | [View Credential](https://www.hackerrank.com/certificates/40a166053c4e) |
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="600">
+<br><br>
 
 ## 📬 Connect with Me
 
