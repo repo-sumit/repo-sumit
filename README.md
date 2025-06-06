@@ -1,3 +1,7 @@
+<div id="header" align="right">
+  <img src="https://komarev.com/ghpvc/?username=repo-sumit&style=for-the-badge&color=orange" alt=""/>
+</div>
+
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there!%20I'm%20Sumit%20👋&fontSize=35&fontAlign=40&fontColor=ffffff)
 
 <p align="center">
@@ -86,12 +90,6 @@ Hi there! I'm **Sumit**, a passionate and driven **Product Manager** with a stro
     <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
 </p>
-
-
-
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=repo-sumit&style=for-the-badge&color=orange" alt=""/>
-</div>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=repo-sumit&show_icons=true&theme=radical"/>
