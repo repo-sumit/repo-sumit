@@ -113,10 +113,8 @@ Hi there! I'm **Sumit**, a passionate and driven **Product Manager** with a stro
 | ![HackerRank](https://img.shields.io/badge/Hackerrank-2EC866?logo=hackerrank&logoColor=white&style=flat) | SQL (Intermediate) | [View Credential](https://www.hackerrank.com/certificates/e106d6175bbd) |
 | ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?logo=hackerrank&logoColor=white&style=flat) | SQL (Basic) | [View Credential](https://www.hackerrank.com/certificates/40a166053c4e) |
 
-<p align="center">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="600">
 <br><br>
-</p>
 
 ## 📬 Connect with Me
 
@@ -166,7 +164,19 @@ Hi there! I'm **Sumit**, a passionate and driven **Product Manager** with a stro
     <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="25" height="25"/>
 </div>
-<br><br>
 
-<p align="center">Made with ❤️ by Sumit</p>
+
+<p align="center">
+Made with ❤️ by Sumit
+</p>
