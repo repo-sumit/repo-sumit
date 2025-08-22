@@ -65,11 +65,7 @@ Hi there! I'm **Sumit**, a passionate and driven **Product Manager** with a stro
   </tr>
 </table>
 
- <tr>
-        <td  align="center">
-        <details open><summary>Full year calendar</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg" alt=""></img></details>
-      </td>
-  </tr>
+
 
 ## 🛠️ Skills & Tools
 
