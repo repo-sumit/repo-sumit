@@ -30,8 +30,8 @@ Hi there! I'm **Sumit**, a passionate and driven **Product Manager** with a stro
     </td>
     <td valign="top">
       <div>
-        <strong> Product Associate · Full-time<br/>
-        <strong> Convegenius AI · Jun 2025 – Present<br/>
+        <strong> Product Associate · Convegenius AI<br/>
+        <strong> Full-time · Jun 2025 – Present<br/>
       </div>
     </td>
   </tr>
@@ -44,8 +44,8 @@ Hi there! I'm **Sumit**, a passionate and driven **Product Manager** with a stro
     </td>
     <td valign="top">
       <div>
-        <strong> Product Intern · Internship<br/>
-        <strong> Convegenius AI · Set 2024 – May 2025<br/>
+        <strong> Product Intern · Convegenius AI<br/>
+        <strong> Internship · Set 2024 – May 2025<br/>
       </div>
     </td>
   </tr>
@@ -58,8 +58,8 @@ Hi there! I'm **Sumit**, a passionate and driven **Product Manager** with a stro
     </td>
     <td valign="top">
       <div>
-        <strong> Founder <br/>
-        <strong> Acegrade · Jun 2025 – Present<br/>
+        <strong> Founder · Acegrade<br/>
+        <strong> Sept 2023 – Present<br/>
       </div>
     </td>
   </tr>
