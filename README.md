@@ -104,7 +104,6 @@ Hi there! I'm **Sumit**, a passionate and driven **Product Manager** with a stro
 </p>
 
 ## 🎓 Certifications
-
 | Icon | Certificate | Link |
 |------|--------------|------|
 | ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat) | API Fundamentals Student Expert | [View Credential](https://badgr.com/public/assertions/PwUrdjzmQ8y6KSZVCS1YNA?identity__email=chingaarisharma@gmail.com) |
@@ -114,8 +113,10 @@ Hi there! I'm **Sumit**, a passionate and driven **Product Manager** with a stro
 | ![HackerRank](https://img.shields.io/badge/Hackerrank-2EC866?logo=hackerrank&logoColor=white&style=flat) | SQL (Intermediate) | [View Credential](https://www.hackerrank.com/certificates/e106d6175bbd) |
 | ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?logo=hackerrank&logoColor=white&style=flat) | SQL (Basic) | [View Credential](https://www.hackerrank.com/certificates/40a166053c4e) |
 
+<p align="center">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="600">
 <br><br>
+</p>
 
 ## 📬 Connect with Me
 
