@@ -16,6 +16,12 @@ Hi there! I'm **Sumit**, a passionate and driven **Product Manager** with a stro
 - 🧠 Founder & Product Owner at **[AceGrade](https://acegrade.in)** – scaled to **100K+ users** in under a year
 - 🎓 Pursuing **B.S.** in **Data Science** from **(IIT Madras)** 
 
+ <tr>
+        <td  align="center">
+        <details open><summary>Full year calendar</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg" alt=""></img></details>
+      </td>
+  </tr>
+
 ## 🛠️ Skills & Tools
 
 ### 🧠 Product & PM Tools
