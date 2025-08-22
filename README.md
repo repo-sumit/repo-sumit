@@ -85,6 +85,10 @@ Hi there! I'm **Sumit**, a passionate and driven **Product Manager** with a stro
  <img width="1000" src="github-snake.svg" alt="snake"/>
 </p>
 
+<p align="center">
+ <img width="1000" src="metrics.plugin.chess.svg" alt="chess"/>
+</p>
+
 ## 🛠️ Projects
 
 ### 🎯 [Quiz Master – Flask Web App](https://github.com/repo-sumit/MAD_1)
