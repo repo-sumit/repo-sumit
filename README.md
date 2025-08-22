@@ -102,6 +102,7 @@ Hi there! I'm **Sumit**, a passionate and driven **Product Manager** with a stro
 <p align="center">
  <img width="500" src="metrics.plugin.chess.svg" alt="chess"/>
 </p>
+
 ## 🎓 Certifications
 
 | Icon | Certificate | Link |
