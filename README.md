@@ -85,10 +85,6 @@ Hi there! I'm **Sumit**, a passionate and driven **Product Manager** with a stro
  <img width="1000" src="github-snake.svg" alt="snake"/>
 </p>
 
-<p align="center">
- <img width="1000" src="metrics.plugin.chess.svg" alt="chess"/>
-</p>
-
 ## 🛠️ Projects
 
 ### 🎯 [Quiz Master – Flask Web App](https://github.com/repo-sumit/MAD_1)
@@ -103,8 +99,9 @@ Hi there! I'm **Sumit**, a passionate and driven **Product Manager** with a stro
 - Time-series forecasting and ABC analysis
 - Inventory optimization using sales patterns
 
-<img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="400">
-
+<p align="center">
+ <img width="500" src="metrics.plugin.chess.svg" alt="chess"/>
+</p>
 ## 🎓 Certifications
 
 | Icon | Certificate | Link |
