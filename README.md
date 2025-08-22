@@ -16,6 +16,55 @@ Hi there! I'm **Sumit**, a passionate and driven **Product Manager** with a stro
 - 🧠 Founder at **[AceGrade](https://acegrade.in)**
 - 🎓 Student At **IIT Madras BS** (Data Science)
 
+
+
+<br/>
+
+<!-- Experience Section -->
+<h2>Experience</h2>
+
+<table>
+  <tr>
+    <td valign="top" width="72">
+      <img src="https://i.ibb.co/08hyRFb/images.png" width="56" height="56" />
+    </td>
+    <td valign="top">
+      <div>
+        <strong> Product Associate · Full-time<br/>
+        <strong> Convegenius AI · Jun 2025 – Present<br/>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td valign="top" width="72">
+      <img src="https://i.ibb.co/08hyRFb/images.png" width="56" height="56" />
+    </td>
+    <td valign="top">
+      <div>
+        <strong> Product Intern · Internship<br/>
+        <strong> Convegenius AI · Set 2024 – May 2025<br/>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td valign="top" width="72">
+      <img src="https://i.ibb.co/Z1vvV4Dt/images.jpg" width="56" height="56" />
+    </td>
+    <td valign="top">
+      <div>
+        <strong> Founder <br/>
+        <strong> Acegrade · Jun 2025 – Present<br/>
+      </div>
+    </td>
+  </tr>
+</table>
+
  <tr>
         <td  align="center">
         <details open><summary>Full year calendar</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg" alt=""></img></details>
