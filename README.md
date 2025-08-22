@@ -12,15 +12,8 @@
 
 Hi there! I'm **Sumit**, a passionate and driven **Product Manager** with a strong foundation in both **tech and growth**. I specialize in turning ideas into impactful digital products.
 
-- 🎯 **Product Associate** at **[ConveGenius AI](https://www.convegenius.com/)** (AI SaaS, B2G)
-- 🧠 Founder at **[AceGrade](https://acegrade.in)**
-- 🎓 Student At **IIT Madras BS** (Data Science)
 
 
-
-<br/>
-
-<!-- Experience Section -->
 <h2>Experience</h2>
 
 <table>
