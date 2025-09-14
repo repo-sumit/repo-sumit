@@ -19,19 +19,6 @@ I'm **Sumit**, a Product Manager who thrives at the intersection of **technology
 
 ---
 
-### 🚀 Professional Experience
-
-- **Product Associate** @ **Convegenius AI**
-  - *Full-time · Jun 2025 – Present*
-
-- **Product Intern** @ **Convegenius AI**
-  - *Internship · Sep 2024 – May 2025*
-
-- **Founder** @ **Acegrade**
-  - *Sep 2023 – Present*
-
----
-
 ### 🛠️ My Tech Stack & Tools
 
 <table>
