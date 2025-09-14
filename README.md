@@ -117,7 +117,7 @@ I'm **Sumit**, a Product Manager who thrives at the intersection of **technology
     <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" height="40" alt="WhatsApp" style="margin-right: 15px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
     <a href="https://topmate.io/soomit" target="_blank">
-    <img src="https://topmate.io/favicon.png" height="40" alt="Topmate" style="margin-right: 15px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://skillicons.dev/icons?i=topmate"" height="40" alt="Topmate" style="margin-right: 15px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
   <a href="https://www.instagram.com/txt.sumit/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
