@@ -114,7 +114,7 @@ I'm **Sumit**, a Product Manager who thrives at the intersection of **technology
     <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" style="margin-right: 15px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
   <a href="https://topmate.io/soomit" target="_blank">
-    <img src="https://img.shields.io/badge/Topmate-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBkPSJNNTIuMiAxODkuMkwyMzguMiAxLjJoMTc0LjhsNzYuNyAxNzYuNUwxOTcuMyA1MTJIMjMuM0w1Mi4yIDE4OS4yWk0yNzguOCAzNjkuNmwzOC42LTc0LjJoODcuNUwyOTMuNCA1MTJIMjMyLjlMMjc4LjggMzY5LjZaIiBmaWxsPSIjRkY3NTAwIi8+PC9zdmc+" height="40" alt="Topmate" style="margin-right: 15px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://cdn.brandfetch.io/idSE0oFcnS/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" height="40" alt="Topmate" style="margin-right: 15px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
   <a href="https://wa.me/919546488385?text=Hi%20Sumit%2C%20got%20your%20Contact%20from%20Github.%0AHow're%20you%20%3F" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" height="40" alt="WhatsApp" style="margin-right: 15px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
