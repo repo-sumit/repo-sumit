@@ -85,7 +85,7 @@ I'm **Sumit**, a Product Manager who thrives at the intersection of **technology
 
 
 <p align="center">
- <img width="500" src="metrics.plugin.chess.svg" alt="chess"/>
+ <img width="350" src="metrics.plugin.chess.svg" alt="chess"/>
 </p>
 
 
