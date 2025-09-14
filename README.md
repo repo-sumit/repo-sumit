@@ -65,25 +65,6 @@ I'm **Sumit**, a Product Manager who thrives at the intersection of **technology
 
 ---
 
-### 🏆 Featured Projects
-
-#### 🎯 Quiz Master – Flask Web App
-*A full-stack quiz platform with role-based access and a comprehensive admin dashboard.*
-- **Tech Stack:** Flask, SQLite, SQLAlchemy, Werkzeug for security.
-- **Features:** Full CRUD functionality for quizzes, user authentication, and performance tracking.
-- **GitHub:** [MAD_1](https://github.com/repo-sumit/MAD_1)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
----
-
-#### 🛒 Grocery Store Analytics
-*A data analysis project to optimize inventory management using sales forecasting.*
-- **Tech Stack:** Python (Pandas, Matplotlib), Statsmodels for time-series.
-- **Analysis:** Performed ABC analysis and time-series forecasting to identify sales patterns.
-- **Live Demo:** [BDM_Project](https://repo-sumit.github.io/BDM_Project/)
-
-
 <p align="center">
  <img width="350" src="metrics.plugin.chess.svg" alt="chess"/>
 </p>
