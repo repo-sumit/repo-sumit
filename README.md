@@ -113,17 +113,16 @@ I'm **Sumit**, a Product Manager who thrives at the intersection of **technology
   <a href="mailto:inbox.sumitt@gmail.com?subject=Hi%20Sumit&body=Hi%2C%20Sumit.%20Got%20your%20mail%20id%20from%20GitHub%2C%20can%20we%20connect%20%3F">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" style="margin-right: 15px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
+  <a href="https://topmate.io/soomit" target="_blank">
+    <img src="https://img.shields.io/badge/Topmate-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBkPSJNNTIuMiAxODkuMkwyMzguMiAxLjJoMTc0LjhsNzYuNyAxNzYuNUwxOTcuMyA1MTJIMjMuM0w1Mi4yIDE4OS4yWk0yNzguOCAzNjkuNmwzOC42LTc0LjJoODcuNUwyOTMuNCA1MTJIMjMyLjlMMjc4LjggMzY5LjZaIiBmaWxsPSIjRkY3NTAwIi8+PC9zdmc+" height="40" alt="Topmate" style="margin-right: 15px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+  </a>
   <a href="https://wa.me/919546488385?text=Hi%20Sumit%2C%20got%20your%20Contact%20from%20Github.%0AHow're%20you%20%3F" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" height="40" alt="WhatsApp" style="margin-right: 15px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  </a>
-    <a href="https://topmate.io/soomit" target="_blank">
-    <img src="https://skillicons.dev/icons?i=topmate"" height="40" alt="Topmate" style="margin-right: 15px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
   <a href="https://www.instagram.com/txt.sumit/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
 </p>
-
 <p align="center">
 Made with ❤️ by Sumit
 </p>
