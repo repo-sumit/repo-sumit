@@ -107,3 +107,7 @@ I'm **Sumit**, a Product Manager who thrives at the intersection of **technology
 <p align="center">
 Made with ❤️ by Sumit
 </p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
