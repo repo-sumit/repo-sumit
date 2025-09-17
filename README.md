@@ -7,10 +7,10 @@
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Product+Manager+%7C+AI+Builder+%7C+Data+Driven;Scaling+Products+%F0%9F%9A%80;Driven+by+Impact+%26+User+Empathy"/>
 </p>
-
-        # <td  align="center">
-        # <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.terminal.svg" alt=""></img>
-        # <img width="900" height="1" alt="">
+ 
+<!--         <td  align="center"> -->
+<!--        <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.terminal.svg" alt=""></img>-->
+<!--        <img width="900" height="1" alt=""> -->
 
 ---
 ### 👨‍💻 About Me
