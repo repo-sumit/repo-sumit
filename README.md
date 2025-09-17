@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=repo-sumit&style=for-the-badge&color=orange" alt=""/>
 </div>
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there!%20I'm%20Sumit%20👋&fontSize=35&fontAlign=40&fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Hi%20there!%20I'm%20Sumit%20👋&fontSize=35&fontAlign=40&fontColor=ffffff)
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Product+Manager+%7C+AI+Builder+%7C+Data+Driven;Scaling+Products+%F0%9F%9A%80;Driven+by+Impact+%26+User+Empathy"/>
@@ -20,6 +20,14 @@ I'm **Sumit**, a Product Manager who thrives at the intersection of **technology
 - 🚀 I specialize in scaling products from idea to launch and beyond.
 - 🧠 I leverage AI and data analytics to drive decision-making and uncover new opportunities.
 - 💡 My focus is always on building products that users love and that create meaningful impact.
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Trimulia02/Trimulia02/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Trimulia02/Trimulia02/output/pacman-contribution-graph.svg">
+  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/Trimulia02/Trimulia02/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
@@ -53,14 +61,6 @@ I'm **Sumit**, a Product Manager who thrives at the intersection of **technology
     </td>
   </tr>
 </table>
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Trimulia02/Trimulia02/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Trimulia02/Trimulia02/output/pacman-contribution-graph.svg">
-  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/Trimulia02/Trimulia02/output/pacman-contribution-graph.svg">
-</picture>
 
 ---
 
