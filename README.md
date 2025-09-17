@@ -1,25 +1,13 @@
 <div id="header" align="right">
   <img src="https://komarev.com/ghpvc/?username=repo-sumit&style=for-the-badge&color=orange" alt=""/>
-</div>
+</div> 
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Hi%20there!%20I'm%20Sumit%20👋&fontSize=35&fontAlign=40&fontColor=ffffff)
+![header-banner.png](github-header-banner.png)
+
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Product+Manager+%7C+AI+Builder+%7C+Data+Driven;Scaling+Products+%F0%9F%9A%80;Driven+by+Impact+%26+User+Empathy"/>
 </p>
- 
-<!--         <td  align="center"> -->
-<!--        <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.terminal.svg" alt=""></img>-->
-<!--        <img width="900" height="1" alt=""> -->
-
----
-### 👨‍💻 About Me
-
-I'm **Sumit**, a Product Manager who thrives at the intersection of **technology, data, and user-centric design**. My passion lies in transforming complex problems into simple, elegant, and impactful digital solutions.
-
-- 🚀 I specialize in scaling products from idea to launch and beyond.
-- 🧠 I leverage AI and data analytics to drive decision-making and uncover new opportunities.
-- 💡 My focus is always on building products that users love and that create meaningful impact.
 
 ---
 
