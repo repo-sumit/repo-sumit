@@ -36,7 +36,7 @@
       <img src="https://img.shields.io/badge/Agile-009DDC?style=flat&logo=agile&logoColor=white" alt="Agile"/>
     </td>
     <td align="center">
-      <img src="./icons/Python-Dark.svg" width="48">
+      <img src="./Icons/Python-Dark.svg" width="48">
       <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" alt="Flask"/>
       <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white" alt="SQL"/>
       <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" alt="Postman"/>
