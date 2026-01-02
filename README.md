@@ -48,7 +48,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=repo-sumit&show_icons=true&theme=radical" alt="Sumit's GitHub Stats"/>
-  &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=repo-sumit&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
