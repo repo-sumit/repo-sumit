@@ -37,9 +37,11 @@
     </td>
     <td align="center">
       <img src="./Icons/Python-Dark.svg" width="48">
-      <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" alt="Flask"/>
-      <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white" alt="SQL"/>
-      <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" alt="Postman"/>
+      <img src="./Icons//Flask-Dark.svg" width="48">
+      <img src="./Icons/PostgreSQL-Dark.svg" width="48">
+      <img src="./Icons/Postman.svg" width="48">
+      <img src="./Icons/HTML.svg" width="48">
+      <img src="./Icons/CSS.svg" width="48">
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black" alt="Power BI"/>
