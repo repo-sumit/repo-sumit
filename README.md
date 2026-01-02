@@ -23,18 +23,9 @@
 
 <table>
   <tr>
-    <td align="center"><strong>Product & Design</strong></td>
-    <td align="center"><strong>Programming </strong></td>
-    <td align="center"><strong>Data & Analytics</strong></td>
+    <td align="center"><strong>Tech Skills</strong></td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/JIRA-0052CC?logo=jira&logoColor=white" alt="JIRA"/>
-      <img src="https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=white" alt="Confluence"/>
-      <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma"/>
-      <img src="https://img.shields.io/badge/Whimsical-5A4FCF?logo=whimsical&logoColor=white" alt="Whimsical"/>
-      <img src="https://img.shields.io/badge/Agile-009DDC?style=flat&logo=agile&logoColor=white" alt="Agile"/>
-    </td>
     <td align="center">
       <img src="./Icons/Python-Dark.svg" width="48">
       <img src="./Icons//Flask-Dark.svg" width="48">
@@ -42,13 +33,12 @@
       <img src="./Icons/Postman.svg" width="48">
       <img src="./Icons/HTML.svg" width="48">
       <img src="./Icons/CSS.svg" width="48">
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black" alt="Power BI"/>
-      <img src="https://img.shields.io/badge/Google%20Analytics-E37400?logo=googleanalytics&logoColor=white" alt="Google Analytics"/>
-      <img src="https://img.shields.io/badge/Mixpanel-6610F2?logo=mixpanel&logoColor=white" alt="Mixpanel"/>
-      <img src="https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white&style=flat" alt="Excel"/>
-    </td>
+      <img src="./Icons/Firebase-Dark.svg" width="48">   
+      <img src="./Icons/Git.svg" width="48">      
+      <img src="./Icons/Github-Dark.svg" width="48">      
+      <img src="./Icons/JavaScript.svg" width="48">      
+      <img src="./Icons/Linux-Dark.svg" width="48">      
+      <img src="./Icons/React-Dark.svg" width="48">      
   </tr>
 </table>
 
